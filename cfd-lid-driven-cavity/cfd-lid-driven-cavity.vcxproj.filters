@@ -27,5 +27,9 @@
   <ItemGroup>
     <None Include="edge.frag" />
     <None Include="edge.vert" />
+    <None Include="scalar.vert" />
+    <None Include="scalar.frag" />
+    <None Include="velocity.vert" />
+    <None Include="velocity.frag" />
   </ItemGroup>
 </Project>
