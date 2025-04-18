@@ -1,15 +1,17 @@
-# Lid-Driven Cavity 2D Computational Fluid Dynamics (CFD) using C++ and OpenGL
+# Cavity Flow 2D Computational Fluid Dynamics (CFD) using C++ and OpenGL
 
 ---
 
-🔗 **[Full Explanation and Implementation Details](https://lokifuller.netlify.app/lid_driven_cavity_explanation)**  
-*This README is a simplified project overview. For equations, analysis, and code breakdown, go to the website above.*
+🔗 **[Various Cavity Flow Experiment Demos as well as Explanation for Methods and Code](https://lokifuller.netlify.app/lid_driven_cavity_demonstration)**  
+*This README is a simplified project overview.*
 
 ---
 
 ## 🚀 Overview
 
 This project simulates the **2D Lid-Driven Cavity problem** using **C++** for the numerical solver and **OpenGL** for real-time visualization. It is a classic problem in **Computational Fluid Dynamics (CFD)** which calculates how fluid moves in a closed box with a moving lid.
+
+This project is extremely modular with easy implementation of different flows and obstacles as shown in my [cavity flow experiments](https://lokifuller.netlify.app/lid_driven_cavity_demonstration).
 
 ## 🧠 Concept
 
@@ -47,7 +49,7 @@ This project simulates the **2D Lid-Driven Cavity problem** using **C++** for th
 
 ---
 
-📌 Again, for full code and explanation:  
-👉 **[https://lokifuller.netlify.app/lid_driven_cavity_explanation](https://lokifuller.netlify.app/lid_driven_cavity_explanation)**
+📌 Again, for experiments and full implementation explanation and code go here:  
+👉 **[https://lokifuller.netlify.app/lid_driven_cavity_explanation](https://lokifuller.netlify.app/lid_driven_cavity_demonstration)**
 
 ---
